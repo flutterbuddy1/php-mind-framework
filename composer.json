@@ -1,0 +1,15 @@
+{
+    "name": "mayank/mind-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "authors": [
+        {
+            "name": "codeking5",
+            "email": "mayanksmind@gmail.com"
+        }
+    ],
+    "require": {}
+}
